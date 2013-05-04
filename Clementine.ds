@@ -1,0 +1,6 @@
+(if
+        (matches (window_name) "Clementine")
+        (begin
+                (set_workspace 2)
+        )
+)

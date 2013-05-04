@@ -1,0 +1,7 @@
+(if
+        (matches (window_name) "Thunderbird")
+        (begin
+                (set_workspace 3)
+        )
+)
+
